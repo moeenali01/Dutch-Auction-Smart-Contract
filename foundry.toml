@@ -3,4 +3,8 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
+[default]
+eth_rpc_url = "https://eth-holesky.g.alchemy.com/v2/eCvFk7P9hdF_Fkmv8chQX94HfAZVltKj"
+eth_chain_id = 17000
+
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
