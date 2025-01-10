@@ -6,6 +6,4 @@ import {DutchAuction} from "../src/Dutch_Auction.sol";
 
 contract AuctionTest is Test {
     DutchAuction public auction;
-
-    
 }
